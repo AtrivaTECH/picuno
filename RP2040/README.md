@@ -23,7 +23,7 @@ Note that all of the gerber files and kicad files present at root are of V1 and 
 <br>
 Cost Calculations and Expected Campaign goal can be found at <a href="https://github.com/atulravi/picuno/tree/main/RP2040/manufacture">/manufacture</a><br>
  
-<b><i>Current version being <s>prototyped</s> tested:</i></b> V3.0.0 (Picuno RP2040)<br>
+<b><i>Current version being <s>prototyped</s> tested:</i></b> V3.2.0 (Picuno RP2040)<br>
 
 <hr width = 100% height = 2></hr>
 
@@ -66,7 +66,7 @@ This particular version comes with 1 built-in LED, 1 WS2812 NeoPixel, Level SHif
 
 ## Known Faults: (GitHUB Issues can be used to track progress)
 <s><19/APR> 3.3 and GND interchanged on headers. </s><br>
-<1/APR> I2C and QWIIC wiring issue. GP20 is SDA and GP21 is SCL. Will Be fixed.
+<s><1/APR> I2C and QWIIC wiring issue. GP20 is SDA and GP21 is SCL. Will Be fixed.</s>
 
 <h1><b>Licenses:</b></h1>
 <img src = "https://github.com/atulravi/picuno/blob/main/RP2040/oshw_facts-v1.png" > </img>
@@ -75,7 +75,6 @@ This particular version comes with 1 built-in LED, 1 WS2812 NeoPixel, Level SHif
 <hr width = 100% height = 2></hr>
 <h1><b>Team:</b></h1>
 <i>ATUL RAVI</i><br>
-17 y/o hobbyist and student building hardware and blogging about them at https://www.esccrasci.in and HAM operator VU3FUJ <br>
 
 
 ## Credits
